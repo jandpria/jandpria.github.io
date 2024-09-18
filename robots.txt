@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://jandpria.github.io/sitemap.html.gz
+Sitemap: https://jandpria.github.io/app/sitemap.html.gz
+Sitemap: https://jandpria.github.io/assets/sitemap.html.gz
+Sitemap: https://jandpria.github.io/css/sitemap.html.gz
+Sitemap: https://jandpria.github.io/includes/sitemap.html.gz
+Sitemap: https://jandpria.github.io/item/sitemap.html.gz
+Sitemap: https://jandpria.github.io/src/sitemap.html.gz
